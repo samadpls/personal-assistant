@@ -4,7 +4,7 @@
 
 # Personal Assistant
 
-It is CLI based personal assistant built on Python. It takes arguments like searching on Wikipedia, playing music, or what the time is. You can also customize it and create more features over it.
+A CLI based personal assistant built on Python. Takes arguments such as searching on Wikipedia, playing music, or what the time is. You can also customize it and create more features over it.
 
 
 
